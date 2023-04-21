@@ -1,12 +1,12 @@
 
 # Cooking Assistant Chatbot with GPT-3
 
-## OVERVIEW
+## 😎OVERVIEW
 This project is an AI chatbot that uses the GPT-3 language model to answer cooking-related questions. The chatbot can answer questions about recipes, ingredients, cooking techniques, and more.
 
 
 
-## Features
+## 📐Features
 
 - Recipe recommendations based on user preferences, dietary restrictions, or available ingredients.
 - Advice on cooking techniques such as sautéing vegetables or searing a steak.
